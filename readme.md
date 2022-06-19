@@ -1,4 +1,4 @@
-# JabTV Landing Page
+# Skardu TV Landing Page
 
 A landing page website template for campers. Made with the love of boxing at heart.
 
@@ -6,7 +6,7 @@ A landing page website template for campers. Made with the love of boxing at hea
 
 ## Author
 
-[@koladechris](https://www.twitter.com/koladechris)
+@M Athar Mutahari
 
 ## Github repo
 
